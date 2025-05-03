@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Bruno Pereia 😃</h1>
 <h3 align="center">Estudo Ciência da Computação, o site ainda se encontra em construção...</h3>
 
-- 🌱 Entendo sobre **Phyton, Photoshop, AutoCAD, Sketchup, VS Code, entre outros.**
+- 🌱 Entendo sobre **Phyton, Photoshop, AutoCAD, Sketchup, entre outros.**
 
 - 📫 Minha caixa de mensagens **bruno.pereira9991@gmail.com**
 
